@@ -1,4 +1,4 @@
-Copyright (c) 2018, Mitja Sovec <mitja@sovec.si>
+Copyright (c) 2018, Mnheia <mnheia@gmail.com>
 
 # windows-time-voice
 windows-time-voice is a vbs script that makes Windows tell you time.
