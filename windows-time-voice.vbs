@@ -1,6 +1,9 @@
 ' windows-time-voice makes Windows tell you the current time.
+' Author: mnheia
+' Repository: https://github.com/mnheia/windows-time-voice
+' License: GPL-3.0 (see LICENSE)
 '
-' Copyright (c) 2018, Mnheia <mnheia@gmail.com>
+' Copyright (c) 2018 mnheia
 '
 ' This module is free software; you can redistribute it and/or modify it
 ' under the terms of GNU general public license (gpl) version 3.
